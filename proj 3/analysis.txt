@@ -1,0 +1,7 @@
+Analysis for function pop is
+1 Popping an element from a stack will take O(1) time complexity. 
+2 Popping the last element in a stack will take O(n).
+
+Analysis for function EvaluatePostfix explain
+1 Evaluating a postfix expression will take O(n) time complexity. 
+  where n is number of characters in input expression.
